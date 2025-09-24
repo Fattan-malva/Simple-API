@@ -43,7 +43,7 @@ src/
 
 ### 1. Clone repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/Fattan-malva/Simple-API.git
 cd API-Gym
 ```
 ### 2. Install dependencies
