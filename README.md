@@ -44,7 +44,7 @@ src/
 ### 1. Clone repository
 ```bash
 git clone https://github.com/Fattan-malva/Simple-API.git
-cd API-Gym
+cd Simple-API
 ```
 ### 2. Install dependencies
 ```bash
